@@ -25,3 +25,6 @@ Or
 ```
 ionic run android
 ```
+
+![Alt text](/src/assets/screenshot/nearby.jpeg?raw=true "ScreenShot")
+
