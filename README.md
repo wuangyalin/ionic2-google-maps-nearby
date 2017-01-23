@@ -26,5 +26,6 @@ Or
 ionic run android
 ```
 
+### Touch the map, and you can get the distance between you location and the touched place
 ![Alt text](/src/assets/screenshot/nearby.jpeg?raw=true "ScreenShot")
 
