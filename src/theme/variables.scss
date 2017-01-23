@@ -1,5 +1,7 @@
 // Ionic Variables and Theming. For more info, please see:
 // http://ionicframework.com/docs/v2/theming/
+$font-path: "../assets/fonts";
+
 @import "ionic.globals";
 
 
@@ -22,11 +24,11 @@
 // The "primary" color is the only required color in the map.
 
 $colors: (
-  primary:    #1abc9c,
-  secondary:  #2ecc71,
-  danger:     #16a085,
-  light:      #f2f6f7,
-  dark:       #2c3e50
+  primary:    #387ef5,
+  secondary:  #32db64,
+  danger:     #f53d3d,
+  light:      #f4f4f4,
+  dark:       #222
 );
 
 
@@ -66,5 +68,11 @@ $colors: (
 // The premium icon font for Ionic. For more info, please see:
 // http://ionicframework.com/docs/v2/ionicons/
 
-$ionicons-font-path: "../assets/fonts";
 @import "ionicons";
+
+
+// Fonts
+// --------------------------------------------------
+
+@import "roboto";
+@import "noto-sans";

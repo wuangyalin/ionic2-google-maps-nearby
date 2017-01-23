@@ -25,17 +25,17 @@
         "ionic-plugin-keyboard": {
             "PACKAGE_NAME": "io.ionic.starter"
         },
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "io.ionic.starter"
-        },
         "cordova-plugin-geolocation": {
             "GEOLOCATION_USAGE_DESCRIPTION": " ",
-            "PACKAGE_NAME": "com.ionicframework.ionic2nearby221050"
+            "PACKAGE_NAME": "io.ionic.starter"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.ionicframework.ionic2googlemapsnearby177829"
         }
     },
     "dependent_plugins": {
         "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.ionicframework.ionic2nearby221050"
+            "PACKAGE_NAME": "io.ionic.starter"
         }
     }
 }
